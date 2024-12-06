@@ -1,0 +1,25 @@
+--2024-12-06 01:12:49--  http://www.fastcgi.com/dist/fcgi.tar.gz
+Resolving www.fastcgi.com (www.fastcgi.com)... 216.213.99.150
+Connecting to www.fastcgi.com (www.fastcgi.com)|216.213.99.150|:80... failed: Connection timed out.
+Retrying.
+
+--2024-12-06 02:12:36--  (try: 2)  http://www.fastcgi.com/dist/fcgi.tar.gz
+Connecting to www.fastcgi.com (www.fastcgi.com)|216.213.99.150|:80... failed: Connection timed out.
+Retrying.
+
+--2024-12-06 02:14:56--  (try: 3)  http://www.fastcgi.com/dist/fcgi.tar.gz
+Connecting to www.fastcgi.com (www.fastcgi.com)|216.213.99.150|:80... failed: Connection timed out.
+Retrying.
+
+--2024-12-06 02:17:15--  (try: 4)  http://www.fastcgi.com/dist/fcgi.tar.gz
+Connecting to www.fastcgi.com (www.fastcgi.com)|216.213.99.150|:80... failed: Connection timed out.
+Retrying.
+
+--2024-12-06 02:19:34--  (try: 5)  http://www.fastcgi.com/dist/fcgi.tar.gz
+Connecting to www.fastcgi.com (www.fastcgi.com)|216.213.99.150|:80... failed: Connection timed out.
+Retrying.
+
+--2024-12-06 02:21:58--  (try: 6)  http://www.fastcgi.com/dist/fcgi.tar.gz
+Connecting to www.fastcgi.com (www.fastcgi.com)|216.213.99.150|:80... failed: Connection timed out.
+Retrying.
+

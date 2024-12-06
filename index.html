@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chip Design Tool</title>
+</head>
+<body>
+    <h1>Parsed Components</h1>
+    <ul id="components"></ul>
+
+    <script>
+        fetch("http://localhost:8080/report") // Endpoint for your REST API
+            .then(response => response.json())
+            .then(data => {
+                const list = document.getElementById("components");
+                data.forEach(item => {
+                    const li = document.createElement("li");
+                    li.textContent = `${item.Type}: ${item.Name}`;
+                    list.appendChild(li);
+                });
+            })
+            .catch(error => console.error("Error fetching data:", error));
+    </script>
+</body>
+</html>
